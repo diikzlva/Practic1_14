@@ -7,6 +7,7 @@ import java.util.concurrent.Semaphore;
 public class Practical_1_14 {
 
     public static void main(String[] args) {
+        System.out.println ("Козлова Динара Артёмовна, РИБО-01-22, Вариант 2, ");
 
         // Создание одного семафора для управления доступом к столику
         Semaphore semaphore = new Semaphore(2);
